@@ -10,7 +10,7 @@
 | -------------- | ----------- |
 
 
-- Will be starting today
+- Will be starting **today**
 
 ### [Soution Challenge Home Page](https://developers.google.com/community/gdsc-solution-challenge/UN-goals)
 ### @rurakshkarpe
