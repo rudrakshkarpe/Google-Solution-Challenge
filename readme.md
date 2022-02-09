@@ -6,6 +6,10 @@
 | Deadline to submit the solution|  31 March | 
 | ----------------------------- | ----------- |
 
+| The project kindara | *Interesting* |
+| -------------- | ----------- |
+
+
 - Will be starting today
 
 ### [Soution Challenge Home Page](https://developers.google.com/community/gdsc-solution-challenge/UN-goals)
